@@ -8,7 +8,7 @@ Seja bem-vindo(a) a minha rede!
 
 * 🌍  Eu estou no Brasil
 * ✉️  Você pode entrar em contato comigo por [angelgabrieldesouzasales](mailto:angelgabrieldesouzasales)
-* 🧠  Eu estou aprendendo a Stack MERN, IA e PLN
+* 🧠  Lifelong Learning
 
 ### Skills
 
