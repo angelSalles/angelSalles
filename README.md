@@ -4,7 +4,9 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desenvolvedor Web
 -----------------
 
-Seja bem-vindo(a) a minha rede! Aqui eu compartilho conhecimento e projetos, espero que você possa me conhecer melhor, e que eu possa te ajudar!
+Seja bem-vindo(a) a minha rede! 
+Aqui eu compartilho conhecimento, espero que eu possa te ajudar!
+Se você encontrar algo que não concorde, ou que esteja errado, me mande uma mensagem para que possamos corrigir, desde já agradeço!
 
 * 🌍  Eu estou no Brasil
 * ✉️  Você pode entrar em contato comigo por [angelgabrieldesouzasales](mailto:angelgabrieldesouzasales)
